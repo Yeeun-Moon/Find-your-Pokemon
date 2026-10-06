@@ -1,0 +1,39 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: darkslategray;
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  padding: 40px 0;
+}
+
+.container {
+  text-align: center;
+  background: white;
+  border: 2px solid yellowgreen;
+  border-radius: 12px;
+  padding: 30px;
+  width: 415px;
+}
+
+.controls {
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 8px;
+  width: 180px;
+}
+
+button {
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+#card img {
+  width: 200px;
+}
+
+#card h2 {
+  text-transform: capitalize;
+}
