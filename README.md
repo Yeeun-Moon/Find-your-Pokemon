@@ -1,7 +1,7 @@
 # Find your Pokemon!
 
 A simple web app built with JavaScript to practice using API
-- API used: pokeAPI
+- API used : pokeAPI
 
 ## Screenshots
 
@@ -12,7 +12,7 @@ A simple web app built with JavaScript to practice using API
 ## Features
 
 - search name or number of the pokemon you want, the profile with its image, name, type, height, and weight will be shown. 
--you can also call a random pokemon by clicking a random button. 
+- you can also call a random pokemon by clicking a random button. 
 
 
 ## Tech Stack
